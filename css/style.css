@@ -1,0 +1,26 @@
+.header{
+	border:1px solid #323232;
+	padding:10px;
+	width: 80%;
+	text-align: center;
+	background-color:#3A95D6;
+}
+.left{
+border:1px solid #323232;
+width: 15%;
+color:#8737FF;
+text-align: center;
+}
+.center{
+	border:1px solid #323232;
+}
+.right{
+	border:1px solid #323232;
+	width: 25%;
+	color:#747474;
+	text-align: center;
+}
+.footer{
+	border:1px solid #323232;
+	text-align: center;
+}
